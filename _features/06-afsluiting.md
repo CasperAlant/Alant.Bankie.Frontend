@@ -1,5 +1,5 @@
 ---
-id: loopbaan
+id: afsluiting
 name: Loopbaan
 heading:
 subheading:
